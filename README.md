@@ -1,5 +1,5 @@
 
-# Ryze
+# Ryze Application
 
 Team Name- Better World
 
